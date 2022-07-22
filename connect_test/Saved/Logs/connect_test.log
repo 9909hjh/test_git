@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/22/22 21:11:20
+=======
+﻿Log file open, 07/22/22 21:14:12
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 07/22/22 21:14:12
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: connect_test
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.361815
+=======
+LogStats: Stats thread started at 0.320508
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.320508
 >>>>>>> Stashed changes
@@ -27,7 +35,10 @@ LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -36,6 +47,7 @@ LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin OodleData
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
@@ -55,6 +67,11 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+=======
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AnimationSharing
@@ -73,7 +90,10 @@ LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
@@ -90,6 +110,9 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
@@ -113,6 +136,7 @@ LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin SkeletalReduction
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin AndroidMedia
@@ -122,6 +146,8 @@ LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 >>>>>>> Stashed changes
@@ -177,12 +203,18 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Niagara
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
@@ -280,6 +312,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.07.22-12.11.21:233][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.07.22-12.11.21:233][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1420,6 +1453,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.22-12.12.19:910][111]LogExit: Exiting.
 [2022.07.22-12.12.19:922][111]Log file closed, 07/22/22 21:12:19
 =======
+=======
+>>>>>>> Stashed changes
 [2022.07.22-12.14.13:082][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.07.22-12.14.13:082][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.07.22-12.14.13:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/bb/Documents/GitHub/test_git/connect_test/Saved/Config/Windows/Engine.ini]
@@ -2656,4 +2691,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.22-12.16.21:972][ 58]LogD3D11RHI: CleanupD3DDevice
 [2022.07.22-12.16.21:974][ 58]LogExit: Exiting.
 [2022.07.22-12.16.21:987][ 58]Log file closed, 07/22/22 21:16:21
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
